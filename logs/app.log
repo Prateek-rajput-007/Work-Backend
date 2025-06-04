@@ -1,0 +1,50 @@
+[INFO] 2025-06-03T17:44:04.953Z: MongoDB connected successfully
+[INFO] 2025-06-03T17:44:05.199Z: Redis connected successfully
+[INFO] 2025-06-03T17:44:05.234Z: Redis connection established
+[INFO] 2025-06-03T17:44:05.249Z: Server running on port 5000
+[ERROR] 2025-06-03T18:29:17.586Z: Redis Client Error: - Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:216:20)
+[INFO] 2025-06-03T18:29:18.901Z: Redis connected successfully
+[INFO] 2025-06-03T18:31:15.810Z: MongoDB connected successfully
+[INFO] 2025-06-03T18:31:15.990Z: Redis connected successfully
+[INFO] 2025-06-03T18:31:16.029Z: Redis connection established
+[INFO] 2025-06-03T18:31:16.044Z: Server running on port 5000
+[INFO] 2025-06-03T18:49:36.792Z: MongoDB connected successfully
+[INFO] 2025-06-03T18:49:37.016Z: Redis connected successfully
+[INFO] 2025-06-03T18:49:37.053Z: Redis connection established
+[INFO] 2025-06-03T18:49:37.072Z: Server running on port 5000
+[INFO] 2025-06-03T18:55:28.468Z: Cache set for chapters:1:10:Physics:Class 11:Completed:true
+[INFO] 2025-06-03T18:56:01.047Z: Cache hit for chapters:1:10:Physics:Class 11:Completed:true
+[ERROR] 2025-06-03T19:00:50.048Z: Server error: - MulterError: Unexpected field
+    at wrappedFileFilter (E:\Suits\Mongo\Backend\node_modules\multer\index.js:40:19)
+    at Busboy.<anonymous> (E:\Suits\Mongo\Backend\node_modules\multer\lib\make-middleware.js:115:7)
+    at Busboy.emit (node:events:524:28)
+    at Busboy.emit (E:\Suits\Mongo\Backend\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (E:\Suits\Mongo\Backend\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (node:events:524:28)
+    at HeaderParser.<anonymous> (E:\Suits\Mongo\Backend\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (node:events:524:28)
+    at HeaderParser._finish (E:\Suits\Mongo\Backend\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (E:\Suits\Mongo\Backend\node_modules\dicer\lib\HeaderParser.js:40:12)
+[INFO] 2025-06-03T19:03:01.084Z: MongoDB connected successfully
+[INFO] 2025-06-03T19:03:01.310Z: Redis connected successfully
+[INFO] 2025-06-03T19:03:01.347Z: Redis connection established
+[INFO] 2025-06-03T19:03:01.360Z: Server running on port 5000
+[INFO] 2025-06-03T19:03:16.810Z: Cache invalidated after chapter upload
+[INFO] 2025-06-03T19:03:49.612Z: Cache set for chapters:1:10:Physics:Class 11:Completed:true
+[INFO] 2025-06-03T19:11:39.120Z: Cache set for chapter:683f46ee391c774b381bdeba
+[INFO] 2025-06-04T06:58:27.585Z: MongoDB connected successfully
+[INFO] 2025-06-04T06:58:27.760Z: Redis connected successfully
+[INFO] 2025-06-04T06:58:27.811Z: Redis connection established
+[INFO] 2025-06-04T06:58:27.830Z: Server running on port 5000
+[INFO] 2025-06-04T06:58:34.826Z: Cache set for chapters:1:10:Physics:Class 11:Completed:true
+[INFO] 2025-06-04T06:59:25.835Z: Cache set for chapters:1:10:Physics:Class 11::true
+[INFO] 2025-06-04T06:59:34.984Z: Cache hit for chapters:1:10:Physics:Class 11:Completed:true
+[INFO] 2025-06-04T07:30:41.042Z: MongoDB connected successfully
+[INFO] 2025-06-04T07:30:41.292Z: Redis connected successfully
+[INFO] 2025-06-04T07:30:41.335Z: Redis connection established
+[INFO] 2025-06-04T07:30:41.349Z: Server running on port 5000
+[INFO] 2025-06-04T07:33:09.162Z: MongoDB connected successfully
+[INFO] 2025-06-04T07:33:09.353Z: Redis connected successfully
+[INFO] 2025-06-04T07:33:09.392Z: Redis connection established
+[INFO] 2025-06-04T07:33:09.397Z: Server running on port 5000
